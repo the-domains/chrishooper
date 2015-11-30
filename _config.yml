@@ -1,6 +1,6 @@
 name: ChrisHooper
 favicon: null
-layout_spectrum: 0.24528
+layout_spectrum: 0.97978
 typography_spectrum: 0.7503
 title: Chris Hooper
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6eabdd'
     - '#bee0f2'
   brandStrength: 0.5
-  lightness: 0.625
-  saturation: 0.5
-  rhythmicContrast: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
