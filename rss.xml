@@ -4,7 +4,7 @@
         <description><![CDATA[Chris Hooper]]></description>
         <link>https://thegrid.ai/chrishooper/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 22:38:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Nov 2015 22:40:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chrishooper/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/chrishooper/c913b72b-076f-4157-8280-ba67236dd970/index.html</link>
             <guid isPermaLink="false">c913b72b-076f-4157-8280-ba67236dd970</guid>
             <pubDate>Mon, 30 Nov 2015 22:38:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello World</p>]]></description>
-            <link>https://thegrid.ai/chrishooper/d8f68473-f466-4fd5-a0c7-d5e5ad76834b/index.html</link>
-            <guid isPermaLink="false">d8f68473-f466-4fd5-a0c7-d5e5ad76834b</guid>
-            <pubDate>Mon, 30 Nov 2015 22:01:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
