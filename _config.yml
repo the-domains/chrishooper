@@ -1,0 +1,28 @@
+name: ChrisHooper
+favicon: null
+layout_spectrum: 0.19951722607947886
+typography_spectrum: 0.808613957837224
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7680491975042969
+  lightness: 0.5452549324836582
+  saturation: 0.4268690689932555
+  rhythmicContrast: 0.24930940615013242
+purpose: []
