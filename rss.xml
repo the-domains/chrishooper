@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ChrisHooper]]></title>
-        <description><![CDATA[ChrisHooper]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Chris Hooper]]></title>
+        <description><![CDATA[Chris Hooper]]></description>
+        <link>https://thegrid.ai/chrishooper/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 22:01:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 22:38:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chrishooper/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>First published on GoingConcern.</p>]]></description>
+            <link>https://thegrid.ai/chrishooper/c913b72b-076f-4157-8280-ba67236dd970/index.html</link>
+            <guid isPermaLink="false">c913b72b-076f-4157-8280-ba67236dd970</guid>
+            <pubDate>Mon, 30 Nov 2015 22:38:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World</p>]]></description>
-            <link>undefinedd8f68473-f466-4fd5-a0c7-d5e5ad76834b/index.html</link>
+            <link>https://thegrid.ai/chrishooper/d8f68473-f466-4fd5-a0c7-d5e5ad76834b/index.html</link>
             <guid isPermaLink="false">d8f68473-f466-4fd5-a0c7-d5e5ad76834b</guid>
             <pubDate>Mon, 30 Nov 2015 22:01:07 GMT</pubDate>
         </item>
