@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Xero User Group]]></title>
         <description><![CDATA[Xero User Group]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chrishooper/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 05:03:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 29 Jun 2016 05:07:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chrishooper/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Xero User Group Adelaide is a forum for accountants, bookkeepers, cloud integrators and power-users to discuss and Xero news, updates, tricks and add-ons. </p>]]></description>
-            <link>undefinedthe-xero-user-group-adelaide-is-a-forum-for-accountants-boo/index.html</link>
+            <link>https://thegrid.ai/chrishooper/the-xero-user-group-adelaide-is-a-forum-for-accountants-boo/index.html</link>
             <guid isPermaLink="false">d975c8eb-d8ec-406c-864e-6d59354d654d</guid>
-            <pubDate>Wed, 29 Jun 2016 05:03:54 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2016 05:07:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
