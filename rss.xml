@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Xero User Group]]></title>
+        <description><![CDATA[Xero User Group]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 29 Jun 2016 05:03:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Xero User Group Adelaide is a forum for accountants, bookkeepers, cloud integrators and power-users to discuss and Xero news, updates, tricks and add-ons. </p>]]></description>
+            <link>undefinedthe-xero-user-group-adelaide-is-a-forum-for-accountants-boo/index.html</link>
+            <guid isPermaLink="false">d975c8eb-d8ec-406c-864e-6d59354d654d</guid>
+            <pubDate>Wed, 29 Jun 2016 05:03:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
